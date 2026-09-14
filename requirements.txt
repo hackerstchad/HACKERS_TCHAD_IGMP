@@ -1,0 +1,6 @@
+# HACKERS_TCHAD IGMP Protocol Analyzer
+# Développé par HACKERS_TCHAD
+# Aucune dépendance externe requise - utilisation de la bibliothèque standard Python uniquement
+
+# Python 3.8+ recommandé
+# tkinter doit être disponible (inclus sur Windows/macOS, apt install python3-tk sur Linux)
