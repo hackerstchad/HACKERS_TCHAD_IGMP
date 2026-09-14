@@ -21,7 +21,7 @@ Analyseur et moniteur IGMP/Multicast professionnel capable de capturer et de gé
 -  Statistiques temps réel avec graphiques
 
 
-## 🛠️ Composants
+##  Composants
 
 | Rôle | Description |
 |------|-------------|
@@ -31,7 +31,7 @@ Analyseur et moniteur IGMP/Multicast professionnel capable de capturer et de gé
 | **Switch Snooping** | Apprend les associations ports/groupes |
 | **Sniffer** | Capture tout le trafic IGMP/multicast de l'interface |
 
-## 📦 Installation
+##  Installation
 
 ```bash
 cd hackers_tchad_igmp_pro
@@ -100,6 +100,4 @@ Exemples de groupes privés utilisables :
                  CLIENT 1  CLIENT 2  CLIENT 3
 ```
 
-## 👤 Auteur
 
-**HACKERS_TCHAD**
