@@ -1,15 +1,12 @@
-# 🔴 HACKERS_TCHAD IGMP Protocol Interface 🔴
+# HACKERS_TCHAD IGMP Protocol Interface 
+
+<img width="1248" height="832" alt="OIG1 (6)" src="https://github.com/user-attachments/assets/000ddc9b-1f53-49e0-a9b7-6042175f179d" />
+
 
 ![HACKERS_TCHAD](https://img.shields.io/badge/Created%20by-HACKERS_TCHAD-red?style=for-the-badge)
 
 Interface graphique avancée d'analyse, de simulation et d'apprentissage du protocole **IGMP (Internet Group Management Protocol)**.
 
-## 🎨 Style Hacker
-
-- Thème **Cyberpunk Hacker** : noir profond, vert néon et rouge alerte
-- Police monospace pour l'aspect terminal
-- Animations et effets visuels
-- Interface inspirée des outils de sécurité réseau
 
 ## ⚡ Fonctionnalités
 
@@ -93,11 +90,6 @@ python main.py
                  CLIENT 1  CLIENT 2  CLIENT 3
 ```
 
-## 📝 Notes
-
-- Cet outil est un **simulateur pédagogique** : il ne génère pas de vrai trafic réseau IGMP.
-- Il modélise fidèlement le comportement du protocole IGMP v1/v2/v3.
-- Créé par **HACKERS_TCHAD** pour l'apprentissage et la démonstration.
 
 ## 👤 Auteur
 
