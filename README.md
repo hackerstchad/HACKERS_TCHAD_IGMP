@@ -6,7 +6,6 @@
 <img width="800" height="488" alt="IGMP-snooping" src="https://github.com/user-attachments/assets/aa598234-45a5-4ba5-8fc9-bb4bc172a4a1" />
 
 
-**Créé par HACKERS_TCHAD**
 
 Analyseur et moniteur IGMP/Multicast professionnel capable de capturer et de générer du **vrai trafic réseau**.
 
